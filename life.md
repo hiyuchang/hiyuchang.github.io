@@ -2,11 +2,18 @@
 ### Photographing
 With my friends (e.g. [Qipeng](https://kippon.github.io), [Haoyu](https://yin-hy.github.io)).
 
-TBA
+<img src="./assest/img/photo-1.jpg" alt="drawing" style="width:200px;"/>
 
-### Foodie, restaurant touring
+<img src="./assest/img/photo-2.jpg" alt="drawing" style="width:200px;"/>
 
-TBA (too lazy)
+<img src="./assest/img/photo-3.jpg" alt="drawing" style="width:200px;"/>
+
+### Foodie, Coffee, and Restaurant Touring
+
+<img src="./assest/img/food-1.jpg" alt="drawing" style="width:200px;"/>
+
+<img src="./assest/img/food-2.jpg" alt="drawing" style="width:200px;"/>
+
 
 ### Kpop
 

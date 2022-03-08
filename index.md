@@ -40,12 +40,14 @@ If you are interested in my research, welcome to discuss with me (fisrtname.fami
   
   - ~~Submitted, Oct. 2021.~~ Accepted by *WCNC 2022*.
   - My first paper accepted!
+  - The slides will be online here soon.
   
 ## Services
 
 ### Teaching
 
-- 2021/22 Fall, TBA
+- 2021/22 Fall, TA of ELEC 1100.
+  - A 30-min talk is scheduled on 15th, Mar. The slides will be online here soon.
 
 ## Life
 

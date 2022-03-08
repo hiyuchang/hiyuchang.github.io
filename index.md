@@ -2,19 +2,20 @@
 
 Hi, I am Yuchang Sun.
 
-Currently, I am a Phd student of [Prof. Jun Zhang](https://eejzhang.people.ust.hk/home.html) in The Hong Kong University of Science and Technology.
+Currently, I am a PhD student of [Prof. Jun Zhang](https://eejzhang.people.ust.hk/home.html) in The Hong Kong University of Science and Technology.
+
 
 ### Education
 
 I received the B.Eng. degree from Beijing Institute of Technology, Beijing, China in 2020.
 
-From 2020 to 2021, I spent one year in EIE department of The Hong Kone Polytechnic University.
+From 2020 to 2021, I spent one year in EIE department of The Hong Kong Polytechnic University.
 
 ## Research
 
 I am working on federated learning and distribution optimization. See my [Google scholar](https://scholar.google.com.hk/citations?user=1WffgvYAAAAJ&hl=zh-CN&oi=ao).
 
-If you are interested in my research, welcome to discuss with me in English or Chinese.
+If you are interested in my research, welcome to discuss with me (fisrtname.familyname at connect.ust.hk) in English or Chinese.
 
 ### Publications (In Chronological Order)
 

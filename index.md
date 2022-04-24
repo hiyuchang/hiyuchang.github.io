@@ -23,7 +23,8 @@ If you are interested in my research, welcome to discuss with me (fisrtname.fami
 
 - [Stochastic Coded Federated Learning with Convergence and Privacy Guarantees](https://arxiv.org/abs/2201.10092)
   
-  - Submitted, Jan. 2022.
+  - Equal contribution with Jiawei SHAO.
+  -  ~~Submitted, Jan. 2022.~~ Accepted to *IEEE ISIT 2022*.
 
 #### Semi-Decentralized FEEL ([A Chinese Introduction](https://mp.weixin.qq.com/s/RNj6UGGXl3y0FytZSkD1YA))
 
@@ -33,12 +34,12 @@ If you are interested in my research, welcome to discuss with me (fisrtname.fami
 
 - [Asynchronous Semi-Decentralized Federated Edge Learning for Heterogeneous Clients](https://arxiv.org/abs/2112.04737)
   
-  - ~~Submitted, Nov. 2021.~~ Accepted by *ICC 2022*.
+  - ~~Submitted, Nov. 2021.~~ Accepted to *IEEE ICC 2022*.
   - Thank my co-authors, without whom I couldn't make it!
 
 - [Semi-Decentralized Federated Edge Learning for Fast Convergence on Non-IID Data](https://arxiv.org/abs/2104.12678)
   
-  - ~~Submitted, Oct. 2021.~~ Accepted by *WCNC 2022*.
+  - ~~Submitted, Oct. 2021.~~ Accepted to *IEEE WCNC 2022*.
   - My first paper accepted!
   
 ## Services

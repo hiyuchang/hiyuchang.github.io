@@ -23,7 +23,7 @@ If you are interested in my research, welcome to discuss with me (fisrtname.fami
 
 - [Stochastic Coded Federated Learning with Convergence and Privacy Guarantees](https://arxiv.org/abs/2201.10092)
   
-  - Equal contribution with Jiawei SHAO.
+  - Equal contribution with [Jiawei SHAO](https://shaojiawei07.github.io).
   -  ~~Submitted, Jan. 2022.~~ Accepted to *IEEE ISIT 2022*.
   -  Please refer to [this link](https://mp.weixin.qq.com/s/Xidj5ORG9qpos5eoqzwgTQ) for a Chinese introduction.
 

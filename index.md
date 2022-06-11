@@ -25,6 +25,7 @@ If you are interested in my research, welcome to discuss with me (fisrtname.fami
   
   - Equal contribution with Jiawei SHAO.
   -  ~~Submitted, Jan. 2022.~~ Accepted to *IEEE ISIT 2022*.
+  -  Please refer to [this link](https://mp.weixin.qq.com/s/Xidj5ORG9qpos5eoqzwgTQ) for a Chinese introduction.
 
 #### Semi-Decentralized FEEL ([A Chinese Introduction](https://mp.weixin.qq.com/s/RNj6UGGXl3y0FytZSkD1YA))
 

@@ -1,5 +1,9 @@
 ### Photographing
 
+<img src="./assets/img/photo-5.jpg" alt="drawing" style="width:300px;"/>
+
+<img src="./assets/img/photo-4.jpg" alt="drawing" style="width:300px;"/>
+
 <img src="./assets/img/photo-1.jpg" alt="drawing" style="width:300px;"/>
 
 <img src="./assets/img/photo-2.jpg" alt="drawing" style="width:300px;"/>

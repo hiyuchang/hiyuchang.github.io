@@ -55,6 +55,7 @@ If you are interested in my research, welcome to discuss with me (fisrtname.fami
 ## Talks
 
 - “Semi-Decentralized Federated Edge Learning with Data and Device Heterogeneity,” (30 minutes) ECE Future Leaders PG Seminar Series, HKUST, Sept. 2022.
+  - Especially thank my "houbei"s for being claques on-site.
 
 ## Services
 

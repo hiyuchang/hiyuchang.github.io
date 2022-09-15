@@ -1,22 +1,68 @@
 ### Photographing
 
-<img src="./assets/img/photo-5.jpg" alt="drawing" style="width:300px;"/>
+<center>
+<figure>
+    <img src="./assets/img/photo-5.jpg" title="In Kennedy Town." style="width:400px;" />
+    <figcaption>In Kennedy Town.</figcaption>
+</figure>
+</center>
 
-<img src="./assets/img/photo-4.jpg" alt="drawing" style="width:300px;"/>
+&nbsp;
 
-<img src="./assets/img/photo-1.jpg" alt="drawing" style="width:300px;"/>
+<center>
+<figure>
+    <img src="./assets/img/photo-4.jpg" style="width:400px;" />
+    <figcaption>In Monster Building.</figcaption>
+</figure>
+</center>
 
-<img src="./assets/img/photo-2.jpg" alt="drawing" style="width:300px;"/>
+&nbsp;
 
-<img src="./assets/img/photo-3.jpg" alt="drawing" style="width:300px;"/>
+<center>
+<figure>
+    <img src="./assets/img/photo-3.jpg" style="width:400px;" />
+    <figcaption>In Kwun Tong.</figcaption>
+</figure>
+</center>
 
-Some are with my friends (e.g. [Qipeng](https://kippon.github.io), [Haoyu](https://yin-hy.github.io)).
+&nbsp;
+
+<center>
+<figure>
+    <img src="./assets/img/photo-2.jpg" style="width:400px;" />
+    <figcaption>In Ngong Ping.</figcaption>
+</figure>
+</center>
+
+&nbsp;
+
+<center>
+<figure>
+    <img src="./assets/img/photo-1.jpg" style="width:400px;" />
+    <figcaption>In Braemar Hill. With [Qipeng](https://kippon.github.io) and [Haoyu](https://yin-hy.github.io).</figcaption>
+</figure>
+</center>
+
+&nbsp;
+
 
 ### Foodie, Coffee, and Restaurant Touring
 
-<img src="./assets/img/food-1.jpg" alt="drawing" style="width:300px;"/>
+<center>
+<figure>
+    <img src="./assets/img/food-1.jpg" style="width:400px;" />
+</figure>
+</center>
 
-<img src="./assets/img/food-2.jpg" alt="drawing" style="width:300px;"/>
+&nbsp;
+
+<center>
+<figure>
+    <img src="./assets/img/food-2.jpg" style="width:400px;" />
+</figure>
+</center>
+
+&nbsp;
 
 
 ### Kpop

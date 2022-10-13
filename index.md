@@ -21,7 +21,7 @@ If you are interested in my research, welcome to discuss with me (firstname.fami
 
 #### Coded FL
 
-- DReS-FL: Dropout-Resilient Secure Federated Learning for Non-IID Clients via Secret Data Sharing
+- [DReS-FL: Dropout-Resilient Secure Federated Learning for Non-IID Clients via Secret Data Sharing](https://arxiv.org/abs/2210.02680)
 
   - Authors: J Shao, **Y Sun**, S Li, J Zhang
   - Accepted by *NeurIPS 2022*.

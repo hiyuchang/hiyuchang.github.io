@@ -21,10 +21,16 @@ If you are interested in my research, welcome to discuss with me (firstname.fami
 
 #### Coded FL
 
+- [Stochastic Coded Federated Learning: Theoretical Analysis and Incentive Mechanism Design](https://arxiv.org/abs/2211.04132)
+  
+  - Authors: **Y Sun**, J Shao, S Li, Y Mao, J Zhang
+  - Submitted.
+
 - [DReS-FL: Dropout-Resilient Secure Federated Learning for Non-IID Clients via Secret Data Sharing](https://arxiv.org/abs/2210.02680)
 
   - Authors: J Shao, **Y Sun**, S Li, J Zhang
   - Accepted by *NeurIPS 2022*.
+  - Please refer to [this link](https://mp.weixin.qq.com/s/nexhiEUbS4jndRcOUzc6ow) for a Chinese introduction.
 
 - [Stochastic Coded Federated Learning with Convergence and Privacy Guarantees](https://arxiv.org/abs/2201.10092)
   

@@ -66,7 +66,7 @@ If you are interested in my research, welcome to discuss with me (firstname.fami
 
 ### Reviewer
 
-- IEEE JSAC, IEEE TCOM, IEEE ICC
+- IEEE JSAC, IEEE TCOM, IEEE GLOBECOM, IEEE SPAWC
 
 ### Teaching
 

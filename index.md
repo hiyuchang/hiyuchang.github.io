@@ -4,6 +4,8 @@ I am Yuchang Sun.
 
 Currently, I am a PhD student supervised by [Prof. Jun Zhang](https://eejzhang.people.ust.hk/home.html) in Department of Electronic and Computer Engineering, the Hong Kong University of Science and Technology.
 
+From Feb, 2023 to July, 2023, I am a visiting scholar in Eurecom, France under the supervision of [Prof. Marios Kountouris](https://scholar.google.com/citations?user=QG9iXtUAAAAJ).
+
 
 ## Education History
 
@@ -43,13 +45,13 @@ If you are interested in my research, welcome to discuss with me (firstname.fami
 - [Semi-Decentralized Federated Edge Learning with Data and Device Heterogeneity](https://arxiv.org/abs/2112.10313)
 
   - Authors: **Y Sun**, J Shao, Y Mao, JH Wang, J Zhang
-  - Submitted, Dec. 2021.
+  - Accepted by *IEEE Transactions on Network and Service Management*, to be appear.
 
 - [Asynchronous Semi-Decentralized Federated Edge Learning for Heterogeneous Clients](https://arxiv.org/abs/2112.04737)
   
   - Authors: **Y Sun**, J Shao, Y Mao, J Zhang
   - Accepted by *IEEE ICC 2022*.
-  - Thank my co-authors, without whom I couldn't make it!
+  - Thank my co-authors, without whom I can't make it!
 
 - [Semi-Decentralized Federated Edge Learning for Fast Convergence on Non-IID Data](https://arxiv.org/abs/2104.12678)
   
@@ -66,7 +68,8 @@ If you are interested in my research, welcome to discuss with me (firstname.fami
 
 ### Reviewer
 
-- IEEE JSAC, IEEE TCOM, IEEE GLOBECOM, IEEE SPAWC
+- Journal: IEEE JSAC, IEEE TCOM
+- Conference: IEEE GLOBECOM, IEEE SPAWC
 
 ### Teaching
 

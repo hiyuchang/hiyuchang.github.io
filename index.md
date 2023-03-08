@@ -68,7 +68,7 @@ If you are interested in my research, welcome to discuss with me (firstname.fami
 
 ### Reviewer
 
-- Journal: IEEE JSAC, IEEE TCOM
+- Journal: IEEE JSAC, IEEE TCOM (Exemplary reviewer)
 - Conference: IEEE GLOBECOM, IEEE SPAWC
 
 ### Teaching

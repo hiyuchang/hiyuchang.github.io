@@ -23,6 +23,13 @@ If you are interested in my research, welcome to discuss with me (firstname.fami
 
 #### Client scheduling
 
+- [MimiC: Combating Client Dropouts in Federated Learning by Mimicking Central Updates](https://arxiv.org/abs/2306.12212)
+  
+  - Authors: **Y. Sun**, Y. Mao, J. Zhang
+  - Submitted.
+
+#### Client scheduling
+
 - [Channel and Gradient-Importance Aware Device Scheduling for Over-the-Air Federated Learning](https://arxiv.org/abs/2305.16854)
   
   - Authors: **Y. Sun**, Z. Lin, Y. Mao, S. Jin, J. Zhang
@@ -68,8 +75,8 @@ If you are interested in my research, welcome to discuss with me (firstname.fami
   
 ## Talks
 
-- “Semi-Decentralized Federated Edge Learning with Data and Device Heterogeneity,” (30 minutes) ECE Future Leaders PG Seminar Series, HKUST, Sept. 2022.
-  - Especially thank my "houbei"s for being claques on-site.
+- “Semi-Decentralized Federated Edge Learning with Data and Device Heterogeneity,” (30 minutes) ECE Future Leaders PG Seminar Series, 
+  - HKUST, Sept. 2022.
 
 ## Services
 

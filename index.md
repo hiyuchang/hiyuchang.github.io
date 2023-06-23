@@ -21,7 +21,7 @@ If you are interested in my research, welcome to discuss with me (firstname.fami
 
 ### Publications
 
-#### Client scheduling
+#### Client Dropout
 
 - [MimiC: Combating Client Dropouts in Federated Learning by Mimicking Central Updates](https://arxiv.org/abs/2306.12212)
   

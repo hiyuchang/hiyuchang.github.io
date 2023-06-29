@@ -7,7 +7,7 @@ Currently, I am a PhD student supervised by [Prof. Jun Zhang](https://eejzhang.p
 From Feb, 2023 to July, 2023, I am a visiting scholar in Eurecom, France under the supervision of [Prof. Marios Kountouris](https://scholar.google.com/citations?user=QG9iXtUAAAAJ).
 
 
-## Education History
+## Education Background
 
 - B. Eng. in Electronic Information Engineering, Beijing Institute of Technology, Sept. 2016-Jun. 2020
 
@@ -73,9 +73,9 @@ If you are interested in my research, welcome to discuss with me (firstname.fami
   - Accepted by *IEEE WCNC 2022*.
   - My first paper accepted!
   
-## Talks
+### Talks
 
-- “Semi-Decentralized Federated Edge Learning with Data and Device Heterogeneity,” (30 minutes) ECE Future Leaders PG Seminar Series, 
+- “Semi-Decentralized Federated Edge Learning with Data and Device Heterogeneity,” ECE Future Leaders PG Seminar Series 
   - HKUST, Sept. 2022.
 
 ## Services
@@ -92,6 +92,18 @@ If you are interested in my research, welcome to discuss with me (firstname.fami
 
 - 2022/23 Fall, TA of ELEC1010 and EESM5900.
 
+## Selected Awards
+
+- Overseas Research Award, Feb.~Jul. 2023, the HKUST Fok Ying Tung Graduate School
+
+- Outstanding Graduates in Beijing (Top 4%), Jul. 2020
+
+- National Scholarship (Top 2%), AY 2018/19
+
+- DWIN Scholarship (Top 2%), AY 2017/18
+
+- Second Prize, the Ninth National College Student Mathematics Competition, Nov. 2018
+   
 ## Others
 
-See [this page](./life.html), please.
+See [this page](./life.html).

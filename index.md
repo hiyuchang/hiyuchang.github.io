@@ -2,10 +2,9 @@
 
 I am Yuchang Sun.
 
-Currently, I am a PhD student supervised by [Prof. Jun Zhang](https://eejzhang.people.ust.hk/home.html) in Department of Electronic and Computer Engineering, the Hong Kong University of Science and Technology.
+Currently, I am a Ph.D. candidate supervised by [Prof. Jun Zhang](https://eejzhang.people.ust.hk/home.html) in Department of Electronic and Computer Engineering, the Hong Kong University of Science and Technology.
 
-From Feb, 2023 to July, 2023, I am a visiting scholar in Eurecom, France under the supervision of [Prof. Marios Kountouris](https://scholar.google.com/citations?user=QG9iXtUAAAAJ).
-
+I am looking for work opportunies in China, Hong Kong SAR, Singapore, and Europe. Besides, any cooperation chances are welcome!
 
 ## Education Background
 
@@ -13,11 +12,18 @@ From Feb, 2023 to July, 2023, I am a visiting scholar in Eurecom, France under t
 
 - PhD student, Dept. EIE, The Hong Kong Polytechnic University, Aug. 2020-Jun. 2021
 
-## Research
 
-I am working on federated learning and distribution optimization. See my [Google scholar](https://scholar.google.com.hk/citations?user=1WffgvYAAAAJ&hl=zh-CN&oi=ao).
+## Internship
 
-If you are interested in my research, welcome to discuss with me (firstname.familyname at connect.ust.hk) in English or Chinese.
+- Research intern in Alibaba DAMO Academy, Hangzhou, China, Aug. 2023-Present
+  
+- Visiting scholar in Eurecom, France, under the supervision of [Prof. Marios Kountouris](https://scholar.google.com/citations?user=QG9iXtUAAAAJ), Feb. 2023-Jul. 2023
+
+## Research ([Google scholar](https://scholar.google.com.hk/citations?user=1WffgvYAAAAJ&oi=ao))
+
+I am working on federated learning and distribution optimization; I am also very interested in game theory.
+
+If you are interested in my research, do not hesitate to contact me (firstname.familyname at connect.ust.hk) in English or Chinese.
 
 ### Publications
 
@@ -26,7 +32,7 @@ If you are interested in my research, welcome to discuss with me (firstname.fami
 - [MimiC: Combating Client Dropouts in Federated Learning by Mimicking Central Updates](https://arxiv.org/abs/2306.12212)
   
   - Authors: **Y. Sun**, Y. Mao, J. Zhang
-  - Submitted.
+  - Submitted to IEEE Trans. Mob. Comput., under revision.
 
 #### Client scheduling
 
@@ -82,7 +88,7 @@ If you are interested in my research, welcome to discuss with me (firstname.fami
 
 ### Reviewer
 
-- Journal: IEEE JSAC, IEEE TCOM (Exemplary reviewer)
+- Journal: IEEE JSAC, IEEE TCOM (Exemplary reviewer), IEEE TMLCN
 - Conference: IEEE GLOBECOM, IEEE SPAWC
 
 ### Teaching

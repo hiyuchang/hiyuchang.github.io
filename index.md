@@ -65,7 +65,7 @@ If you are interested in my research, do not hesitate to contact me (firstname.f
 - [Semi-Decentralized Federated Edge Learning with Data and Device Heterogeneity](https://arxiv.org/abs/2112.10313)
 
   - Authors: **Y. Sun**, J. Shao, Y. Mao, J.H. Wang, J. Zhang
-  - Accepted by *IEEE Transactions on Network and Service Management*, to appear.
+  - Accepted by *IEEE Transactions on Network and Service Management*, vol. 20, no. 2, pp. 1487-1501, Jun. 2023.
 
 - [Asynchronous Semi-Decentralized Federated Edge Learning for Heterogeneous Clients](https://arxiv.org/abs/2112.04737)
   
@@ -88,7 +88,7 @@ If you are interested in my research, do not hesitate to contact me (firstname.f
 
 ### Reviewer
 
-- Journal: IEEE JSAC, IEEE TCOM (Exemplary reviewer), IEEE TMLCN
+- Journal: IEEE JSAC, IEEE TCOM ([2022 Exemplary reviewer](https://www.comsoc.org/publications/journals/ieee-tcom/exemplary-reviewers)), IEEE TMLCN
 - Conference: IEEE GLOBECOM, IEEE SPAWC
 
 ### Teaching

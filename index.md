@@ -35,14 +35,15 @@ If you are interested in my research, do not hesitate to contact me (firstname.f
 - [MimiC: Combating Client Dropouts in Federated Learning by Mimicking Central Updates](https://arxiv.org/abs/2306.12212)
   
   - Authors: **Y. Sun**, Y. Mao, J. Zhang
-  - Submitted to *IEEE Transactions on Mobile Computing* (CCF A), under revision.
+  - Accepted to *IEEE Transactions on Mobile Computing* (CCF A).
+  - This is one of my personally favourite ideas! A chinese introduction will be online soon.
 
 #### Client scheduling
 
 - [Channel and Gradient-Importance Aware Device Scheduling for Over-the-Air Federated Learning](https://arxiv.org/abs/2305.16854)
   
   - Authors: **Y. Sun**, Z. Lin, Y. Mao, S. Jin, J. Zhang
-  - Submitted to *IEEE Transactions on Wireless Communication* (CAS R1,IF: 10.4), under revision.
+  - Accepted to *IEEE Transactions on Wireless Communication* (CAS R1,IF: 10.4).
 
 #### Coded FL
 
@@ -50,6 +51,7 @@ If you are interested in my research, do not hesitate to contact me (firstname.f
   
   - Authors: **Y. Sun**, J. Shao, S. Li, Y. Mao, J. Zhang
   - Accepted to *IEEE Transactions on Wireless Communication* (CAS R1,IF: 10.4).
+  - Fun fact: this paper has the same submission and acceptance dates!
 
 - [DReS-FL: Dropout-Resilient Secure Federated Learning for Non-IID Clients via Secret Data Sharing](https://arxiv.org/abs/2210.02680)
 
@@ -60,7 +62,7 @@ If you are interested in my research, do not hesitate to contact me (firstname.f
 - [Stochastic Coded Federated Learning with Convergence and Privacy Guarantees](https://arxiv.org/abs/2201.10092)
   
   - Authors: **Y. Sun**, J. Shao, S Li, Y. Mao, J. Zhang (equal contribution with [Jiawei SHAO](https://shaojiawei07.github.io))
-  - Accepted by *IEEE ISIT 2022* (Flagship conference of the IEEE Information Theory Society).
+  - Accepted to *IEEE ISIT 2022* (Flagship conference of the IEEE Information Theory Society).
   - Please refer to [this link](https://mp.weixin.qq.com/s/Xidj5ORG9qpos5eoqzwgTQ) for a Chinese introduction.
 
 #### Semi-Decentralized FEEL ([A Chinese Introduction](https://mp.weixin.qq.com/s/RNj6UGGXl3y0FytZSkD1YA))
@@ -68,18 +70,18 @@ If you are interested in my research, do not hesitate to contact me (firstname.f
 - [Semi-Decentralized Federated Edge Learning with Data and Device Heterogeneity](https://arxiv.org/abs/2112.10313)
 
   - Authors: **Y. Sun**, J. Shao, Y. Mao, J.H. Wang, J. Zhang
-  - Accepted by *IEEE Transactions on Network and Service Management*, vol. 20, no. 2, pp. 1487-1501, Jun. 2023.
+  - Accepted to *IEEE Transactions on Network and Service Management*, vol. 20, no. 2, pp. 1487-1501, Jun. 2023.
 
 - [Asynchronous Semi-Decentralized Federated Edge Learning for Heterogeneous Clients](https://arxiv.org/abs/2112.04737)
   
   - Authors: **Y. Sun**, J. Shao, Y. Mao, J. Zhang
-  - Accepted by *IEEE ICC 2022* (Flagship conference of the IEEE Communications Society).
+  - Accepted to *IEEE ICC 2022* (Flagship conference of the IEEE Communications Society).
   - Thank my co-authors, without whom I can't make it!
 
 - [Semi-Decentralized Federated Edge Learning for Fast Convergence on Non-IID Data](https://arxiv.org/abs/2104.12678)
   
   - Authors: **Y. Sun**, J. Shao, [Y. Mao](https://sites.google.com/site/ymaoust), JH Wang, J Zhang
-  - Accepted by *IEEE WCNC 2022*.
+  - Accepted to *IEEE WCNC 2022*.
   - My first paper accepted!
   
 ### Talks

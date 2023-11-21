@@ -2,19 +2,20 @@
 
 I am Yuchang Sun.
 
-Currently, I am a Ph.D. candidate supervised by [Prof. Jun Zhang](https://eejzhang.people.ust.hk/home.html) in Department of Electronic and Computer Engineering, the Hong Kong University of Science and Technology.
+Currently, I am a Ph.D. candidate in Department of Electronic and Computer Engineering, the Hong Kong University of Science and Technology, supervised by [Prof. Jun Zhang](https://eejzhang.people.ust.hk/home.html) and (informally) co-supervised by [Dr. Yuyi Mao from PolyU](https://sites.google.com/site/ymaoust).
 
-I am looking for work opportunies in China, Hong Kong SAR, Singapore, and Europe. Besides, any cooperation chances are welcome! 
+I am looking for work opportunies in China, Hong Kong SAR, and Singapore. Besides, any collaboration chances are welcome! 
 
 ### [News!](./news.html)
 
 
 ## Education Background
 
-- B. Eng. in Electronic Information Engineering, Beijing Institute of Technology, Sept. 2016-Jun. 2020
+- Ph.D. student, Dept. ECE, The Hong Kong University of Science and Technology, Hong Kong, China, Aug. 2021-Now
 
-- PhD student, Dept. EIE, The Hong Kong Polytechnic University, Aug. 2020-Jun. 2021
-
+- Research graduate student, Dept. EIE, The Hong Kong Polytechnic University, Hong Kong, China, Aug. 2020-Jun. 2021
+  
+- B. Eng. in Electronic Information Engineering, Beijing Institute of Technology, Beijing, China, Sept. 2016-Jun. 2020
 
 ## Internship
 
@@ -80,7 +81,7 @@ If you are interested in my research, do not hesitate to contact me (firstname.f
 
 - [Semi-Decentralized Federated Edge Learning for Fast Convergence on Non-IID Data](https://arxiv.org/abs/2104.12678)
   
-  - Authors: **Y. Sun**, J. Shao, [Y. Mao](https://sites.google.com/site/ymaoust), JH Wang, J Zhang
+  - Authors: **Y. Sun**, J. Shao, Y. Mao, JH Wang, J Zhang
   - Accepted to *IEEE WCNC 2022*.
   - My first paper accepted!
   

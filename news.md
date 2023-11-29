@@ -1,5 +1,7 @@
 ## News
 
+- 29/11/2023: I write an article to introduce MimiC ([here](https://mp.weixin.qq.com/s/7M-OLONznfRvQf-FPIKuIw)).
+
 - 21/11/2023: One paper on client dropout in FL is accepted to TMC! I like this idea personally very much, and an introduction article (in Chinese) will be online soon!
 
 - 18/11/2023: One paper on over-the-air FL is accepted to TWC!

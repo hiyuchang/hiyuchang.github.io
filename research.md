@@ -1,5 +1,9 @@
 ## Journal Papers (in chronological order)
 
+- [Feature Matching Data Synthesis for Non-IID Federated Learning](https://arxiv.org/pdf/2308.04761)
+  - Authors: Z Li, **Y Sun**, J Shao, Y Mao, JH Wang, J Zhang
+  - Accepted to *IEEE Transactions on Mobile Computing* (CCF A), to appear.
+
 - [MimiC: Combating client dropouts in federated learning by mimicking central updates](https://arxiv.org/abs/2306.12212)
   - Authors: **Y Sun**, Y Mao, J Zhang
   - Accepted to *IEEE Transactions on Mobile Computing* (CCF A), to appear.
@@ -52,8 +56,4 @@
 - [A survey of what to share in federated learning: Perspectives on model utility, privacy leakage, and communication efficiency](https://arxiv.org/pdf/2307.10655)
   - Authors: J Shao, Z Li, W Sun, T Zhou, **Y Sun**, L Liu, Z Lin, J Zhang
   - Submitted.
-
-- [Feature Matching Data Synthesis for Non-IID Federated Learning](https://arxiv.org/pdf/2308.04761)
-  - Authors: Z Li, **Y Sun**, J Shao, Y Mao, JH Wang, J Zhang
-  - Under revision.
   

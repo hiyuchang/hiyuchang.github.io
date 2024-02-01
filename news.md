@@ -1,5 +1,7 @@
 ## News
 
+- 01/02/2024: Our paper on FL is accepted by IEEE TMC! See [Feature Matching Data Synthesis for Non-IID Federated Learning](https://arxiv.org/pdf/2308.04761). Congrats to Zijian!
+
 - 25/01/2024: One new paper on collaboration in FL is public at [arxiv](https://arxiv.org/abs/2401.13236).
 
 - 29/11/2023: I write an article to introduce MimiC ([here](https://mp.weixin.qq.com/s/7M-OLONznfRvQf-FPIKuIw)).

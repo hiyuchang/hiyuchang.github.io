@@ -38,6 +38,7 @@ If you are interested in my research, do not hesitate to contact me (firstname.f
   - Authors: **Y. Sun**, Y. Mao, J. Zhang
   - Accepted to *IEEE Transactions on Mobile Computing* (CCF A).
   - This is one of my personally favourite ideas! A chinese introduction is online [here](https://mp.weixin.qq.com/s/7M-OLONznfRvQf-FPIKuIw).
+  - Codes are available at [here](https://github.com/hiyuchang/mimic_codes/).
 
 #### Client scheduling
 

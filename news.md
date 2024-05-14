@@ -1,6 +1,8 @@
 ## News
 
-- /04/2024: We release the codes for MimiC! See the [repo](https://github.com/hiyuchang/mimic_codes/)! Welcome to cite!
+- 02/05/2024: I passed my Ph.D. defense exam! I am a "Doctor" now! The slides are available at [here](https://hiyuchang.github.io/PHD_Defense_YuchangSUN_Main.pdf).
+
+- 01/04/2024: We release the codes for MimiC! See the [repo](https://github.com/hiyuchang/mimic_codes/)! Welcome to cite!
 
 - 01/02/2024: Our paper on FL is accepted by IEEE TMC! See [Feature Matching Data Synthesis for Non-IID Federated Learning](https://arxiv.org/pdf/2308.04761). Congrats to Zijian!
 

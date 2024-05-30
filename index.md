@@ -4,7 +4,7 @@ I am Yuchang Sun.
 
 I received the Ph.D. degree from The Hong Kong University of Science and Technology (HKUST) in 2024, supervised by [Prof. Jun Zhang](https://eejzhang.people.ust.hk/home.html), and the B.Eng. degree from Beijing Institute of Technology (BIT) in 2020.
 
-Any collaboration chances are welcome! Please email me.
+If you are interested in my research, do not hesitate to contact me (firstname.familyname at connect.ust.hk) in English or Madarine.
 
 ### [News!](./news.html)
 
@@ -25,9 +25,7 @@ Any collaboration chances are welcome! Please email me.
 
 ## Research ([Google scholar](https://scholar.google.com.hk/citations?user=1WffgvYAAAAJ&oi=ao))
 
-I am working on federated learning and distribution optimization; I am also very interested in game theory.
-
-If you are interested in my research, do not hesitate to contact me (firstname.familyname at connect.ust.hk) in English or Madarine.
+Propose frameworks/algorithms with theoretical guarantee to address the data and device heterogeneity in federated learning (FL).
 
 ### Publications
 

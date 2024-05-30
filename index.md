@@ -2,16 +2,16 @@
 
 I am Yuchang Sun.
 
-Currently, I am a Ph.D. candidate in Department of Electronic and Computer Engineering, the Hong Kong University of Science and Technology, supervised by [Prof. Jun Zhang](https://eejzhang.people.ust.hk/home.html) and (informally) co-supervised by [Dr. Yuyi Mao from PolyU](https://sites.google.com/site/ymaoust).
+I received the Ph.D. degree from The Hong Kong University of Science and Technology (HKUST) in 2024, supervised by [Prof. Jun Zhang](https://eejzhang.people.ust.hk/home.html), and the B.Eng. degree from Beijing Institute of Technology (BIT) in 2020.
 
-I am looking for work opportunies in China, Hong Kong SAR, and Singapore. Besides, any collaboration chances are welcome! 
+Any collaboration chances are welcome! Please email me.
 
 ### [News!](./news.html)
 
 
 ## Education Background
 
-- Ph.D. student, Dept. ECE, The Hong Kong University of Science and Technology, Hong Kong, China, Aug. 2021-Now
+- Ph.D. student, Dept. ECE, The Hong Kong University of Science and Technology, Hong Kong, China, Aug. 2021-May 2024
 
 - Research graduate student, Dept. EIE, The Hong Kong Polytechnic University, Hong Kong, China, Aug. 2020-Jun. 2021
   
@@ -19,7 +19,7 @@ I am looking for work opportunies in China, Hong Kong SAR, and Singapore. Beside
 
 ## Internship
 
-- Research intern in Alibaba DAMO Academy, Hangzhou, China, Aug. 2023-Present
+- Research intern in Tongyi lab, Alibaba Hangzhou, China, Aug. 2023-May 2024
   
 - Visiting scholar in Eurecom, France, under the supervision of [Prof. Marios Kountouris](https://scholar.google.com/citations?user=QG9iXtUAAAAJ), Feb. 2023-Jul. 2023
 
@@ -27,7 +27,7 @@ I am looking for work opportunies in China, Hong Kong SAR, and Singapore. Beside
 
 I am working on federated learning and distribution optimization; I am also very interested in game theory.
 
-If you are interested in my research, do not hesitate to contact me (firstname.familyname at connect.ust.hk) in English or Chinese.
+If you are interested in my research, do not hesitate to contact me (firstname.familyname at connect.ust.hk) in English or Madarine.
 
 ### Publications
 
@@ -96,7 +96,7 @@ If you are interested in my research, do not hesitate to contact me (firstname.f
 ### Reviewer
 
 - Journal: IEEE JSAC, IEEE TCOM ([2022 Exemplary reviewer](https://www.comsoc.org/publications/journals/ieee-tcom/exemplary-reviewers)), IEEE TMLCN
-- Conference: IEEE GLOBECOM, IEEE SPAWC
+- Conference: IEEE GLOBECOM, IEEE SPAWC, Neurips 2024
 
 ### Teaching
 

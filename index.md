@@ -29,7 +29,7 @@ Propose frameworks/algorithms with theoretical guarantee to address the data and
 
 ### Publications
 
-#### Client Dropout
+#### Client dropout
 
 - [MimiC: Combating Client Dropouts in Federated Learning by Mimicking Central Updates](https://arxiv.org/abs/2306.12212)
   

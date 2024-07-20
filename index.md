@@ -19,7 +19,7 @@ If you are interested in my research, do not hesitate to contact me (firstname.f
 
 ## Internship
 
-- Research intern in Tongyi lab, Alibaba Hangzhou, China, Aug. 2023-May 2024
+- Research intern in Tongyi lab, Alibaba, Hangzhou, China, Aug. 2023-May 2024
   
 - Visiting scholar in Eurecom, France, under the supervision of [Prof. Marios Kountouris](https://scholar.google.com/citations?user=QG9iXtUAAAAJ), Feb. 2023-Jul. 2023
 
@@ -94,7 +94,7 @@ Propose frameworks/algorithms with theoretical guarantee to address the data and
 ### Reviewer
 
 - Journal: IEEE JSAC, IEEE TCOM ([2022 Exemplary reviewer](https://www.comsoc.org/publications/journals/ieee-tcom/exemplary-reviewers)), IEEE TMLCN
-- Conference: IEEE GLOBECOM, IEEE SPAWC, Neurips 2024
+- Conference: IEEE GLOBECOM, IEEE SPAWC, Neurips
 
 ### Teaching
 
@@ -105,6 +105,8 @@ Propose frameworks/algorithms with theoretical guarantee to address the data and
 
 ## Selected Awards
 
+- HKUST RedBird Academic Excellence Award for Continuing PhD Students, AY 2023/24
+  
 - Overseas Research Award, Feb.~Jul. 2023, the HKUST Fok Ying Tung Graduate School
 
 - Outstanding Graduates in Beijing (Top 4%), Jul. 2020

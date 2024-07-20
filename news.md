@@ -1,5 +1,7 @@
 ## News
 
+- 25/06/2024: I received **HKUST RedBird Academic Excellence Award** for Continuing PhD Students in 2023-24.
+
 - 02/05/2024: I passed my Ph.D. defense exam! I am a "Doctor" now! The slides are available at [here](https://hiyuchang.github.io/PHD_Defense_YuchangSUN_Main.pdf).
 
 - 01/04/2024: We release the codes for MimiC! See the [repo](https://github.com/hiyuchang/mimic_codes/)! Welcome to cite!

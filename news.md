@@ -1,5 +1,7 @@
 ## News
 
+- 08/08/2024: I joined DAIL, Alibaba as a full-time senior algorithm engineer.
+
 - 25/06/2024: I received **HKUST RedBird Academic Excellence Award** for Continuing PhD Students in 2023-24.
 
 - 02/05/2024: I passed my Ph.D. defense exam! I am a "Doctor" now! The slides are available at [here](https://hiyuchang.github.io/PHD_Defense_YuchangSUN_Main.pdf).

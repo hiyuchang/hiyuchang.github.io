@@ -1,5 +1,7 @@
 ## News
 
+- 29/08/2024: Our paper on FL with selective layer fine-tuning is public at [ArXiv](https://arxiv.org/abs/2408.15600). Welcome to discuss with me!
+
 - 08/08/2024: I joined DAIL, Alibaba as a full-time senior algorithm engineer.
 
 - 25/06/2024: I received **HKUST RedBird Academic Excellence Award** for Continuing PhD Students in 2023-24.

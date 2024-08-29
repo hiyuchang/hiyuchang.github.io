@@ -49,9 +49,13 @@
 
 ## Arxiv Papers (in chronological order)
 
+- [Exploring Selective Layer Fine-Tuning in Federated Learning](https://arxiv.org/abs/2408.15600)
+  - Authors: **Y Sun**, Y Xie, B Ding, Y Li, J Zhang
+  - Submitted.
+
 - [How to Collaborate: Towards Maximizing the Generalization Performance in Cross-Silo Federated Learning](https://arxiv.org/abs/2401.13236)
   - Authors: **Y Sun**, M Kountouris, J Zhang
-  - Submitted.
+  - Revision submitted.
     
 - [A survey of what to share in federated learning: Perspectives on model utility, privacy leakage, and communication efficiency](https://arxiv.org/pdf/2307.10655)
   - Authors: J Shao, Z Li, W Sun, T Zhou, **Y Sun**, L Liu, Z Lin, J Zhang

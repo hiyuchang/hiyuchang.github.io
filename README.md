@@ -11,7 +11,7 @@
 1. Check status by going to the repository settings, in the "GitHub pages" section
 1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
 
-See more info at https://academicpages.github.io/
+See more info at https://hiyuchang.github.io/
 
 ## Running locally
 
@@ -52,7 +52,7 @@ docker run -p 4000:4000 --rm -v $(pwd):/usr/src/app jekyll-site
 
 # Maintenance
 
-Bug reports and feature requests to the template should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
+Bug reports and feature requests to the template should be [submitted via GitHub](https://github.com/hiyuchang/hiyuchang.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/hiyuchang/hiyuchang.github.io/discussions).
 
 This repository was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by [Robert Zupko](https://github.com/rjzupkoii) and additional maintainers would be welcomed.
 
@@ -65,11 +65,11 @@ Unfortunately, one logistical issue with a template theme like Academic Pages th
 ---
 <div align="center">
     
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
-[![GitHub contributors](https://img.shields.io/github/contributors/academicpages/academicpages.github.io.svg)](https://github.com/academicpages/academicpages.github.io/graphs/contributors)
-[![GitHub release](https://img.shields.io/github/v/release/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/releases/latest)
-[![GitHub license](https://img.shields.io/github/license/academicpages/academicpages.github.io?color=blue)](https://github.com/academicpages/academicpages.github.io/blob/master/LICENSE)
+![pages-build-deployment](https://github.com/hiyuchang/hiyuchang.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
+[![GitHub contributors](https://img.shields.io/github/contributors/hiyuchang/hiyuchang.github.io.svg)](https://github.com/hiyuchang/hiyuchang.github.io/graphs/contributors)
+[![GitHub release](https://img.shields.io/github/v/release/hiyuchang/hiyuchang.github.io)](https://github.com/hiyuchang/hiyuchang.github.io/releases/latest)
+[![GitHub license](https://img.shields.io/github/license/hiyuchang/hiyuchang.github.io?color=blue)](https://github.com/hiyuchang/hiyuchang.github.io/blob/master/LICENSE)
 
-[![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
-[![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
+[![GitHub stars](https://img.shields.io/github/stars/hiyuchang/hiyuchang.github.io)](https://github.com/hiyuchang/hiyuchang.github.io)
+[![GitHub forks](https://img.shields.io/github/forks/hiyuchang/hiyuchang.github.io)](https://github.com/hiyuchang/hiyuchang.github.io/fork)
 </div>

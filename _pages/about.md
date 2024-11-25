@@ -23,6 +23,10 @@ Research Interests
 News
 ======
 
+- 23/11/2024: I attended the Graduation Ceremony of HKUST and received the Ph.D. degree. Thanks to my family, friends, and supervisors! 
+
+- 22/11/2024: [Our paper](https://arxiv.org/abs/2401.13236) on collaboration in cross-silo FL was accepted to TMC! Thanks to my co-authors!
+
 - 29/08/2024: Our paper on FL with selective layer fine-tuning is public at [ArXiv](https://arxiv.org/abs/2408.15600). Welcome to discuss with me!
 
 - 08/08/2024: I joined DAIL, Alibaba as a full-time senior algorithm engineer.

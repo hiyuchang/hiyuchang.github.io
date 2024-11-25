@@ -9,9 +9,10 @@ redirect_from:
 
 I am Yuchang Sun. I am currently working in DAIL, Alibaba as Senior Algorithm Engineer.
 
-I received the Ph.D. degree from The Hong Kong University of Science and Technology (HKUST) in 2024, supervised by Prof. Jun Zhang, and the B.Eng. degree from Beijing Institute of Technology (BIT) in 2020.
+I received the Ph.D. degree from The Hong Kong University of Science and Technology (HKUST) in 2024, supervised by [Prof. Jun Zhang](https://eejzhang.people.ust.hk/), and the B.Eng. degree from Beijing Institute of Technology (BIT) in 2020. 
+During my Ph.D., I was fortunate to visit EURECOM advised by [Prof. Marios Kountouris](https://scholar.google.co.in/citations?user=QG9iXtUAAAAJ&hl=en) and intern at Alibaba advised by [Yuexiang Xie](https://xieyxclack.github.io/).
 
-If you are interested in my research, do not hesitate to contact me (sunyuchang.syc at alibaba-inc.com) in English or Chinese.
+If you are interested in my research, do not hesitate to contact me (hiyuchang AT outlook.com) in English or Mandarin.
 
 Research Interests
 ======

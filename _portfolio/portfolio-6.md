@@ -1,5 +1,5 @@
 ---
-title: "HKUST, Hong Kong, 2024"
-excerpt: "<br/><img src='/images/gaduation.jpg'>"
+title: "HKUST, Hong Kong, Nov. 2024"
+excerpt: "Graduation Ceremony <br/><img src='/images/graduation.jpg'>"
 collection: portfolio
 ---

@@ -12,14 +12,14 @@ I am Yuchang Sun. I am currently working in DAIL, Alibaba as Senior Algorithm En
 I received the Ph.D. degree from The Hong Kong University of Science and Technology (HKUST) in 2024, supervised by [Prof. Jun Zhang](https://eejzhang.people.ust.hk/), and the B.Eng. degree from Beijing Institute of Technology (BIT) in 2020. 
 During my Ph.D., I was fortunate to visit EURECOM, advised by [Prof. Marios Kountouris](https://scholar.google.co.in/citations?user=QG9iXtUAAAAJ&hl=en) and to intern at Alibaba, mentored by [Yuexiang Xie](https://xieyxclack.github.io/) and led by [Dr. Yaliang Li](https://scholar.google.com/citations?user=CCPBcdYAAAAJ&hl=zh-CN).
 
-If you are interested in my research, do not hesitate to contact me (hiyuchang AT outlook.com) in English or Mandarin.
+If you are interested in my research, do not hesitate to contact me via **hiyuchang@outlook.com** or **yuchang_0816** (Wechat).
 
 Research Interests
 ======
 
-- Large language models (LLMs)
-- Federated learning (FL) and distributed optimization
+- Test-time computation of large language models (LLMs)
 - Active learning (AL)
+- Federated learning (FL) and distributed learning
 
 News
 ======
@@ -74,7 +74,7 @@ MimiC: Combating Client Dropouts in Federated Learning by Mimicking Central Upda
 Semi-Decentralized Federated Edge Learning with Data and Device Heterogeneity ([Paper](https://arxiv.org/abs/2112.10313))
 ------
   
-  - Authors: Y Sun, J Shao, Y Mao, JH Wang, J Zhang
+  - Authors: Y. Sun, J. Shao, Y. Mao, J.H. Wang, J. Zhang
   - Accepted to IEEE Transactions on Network and Service Management, vol. 20, no. 2, Jun. 2023.
 
 Selected Awards and Honors

@@ -24,6 +24,8 @@ Research Interests
 News
 ======
 
+- 26/11/2024: We release the source code for our paper on FL with selective layer fine-tuning! See the [repo](https://github.com/hiyuchang/fed_sel_tune).
+
 - 23/11/2024: I attended the Graduation Ceremony of HKUST and received the Ph.D. degree. Thanks to my family, friends, and supervisors! 
 
 - 22/11/2024: [Our paper](https://arxiv.org/abs/2401.13236) on collaboration in cross-silo FL was accepted to TMC! Thanks to my co-authors!
@@ -61,7 +63,7 @@ Exploring Selective Layer Fine-Tuning in Federated Learning ([Paper](https://arx
 
 - Authors: **Y. Sun**, Y. Xie, B. Ding, Y. Li, J. Zhang
 - Under review.
-
+- Codes are available at [here](https://github.com/hiyuchang/fed_sel_tune).
 
 MimiC: Combating Client Dropouts in Federated Learning by Mimicking Central Updates ([Paper](https://arxiv.org/abs/2306.12212))
 ------

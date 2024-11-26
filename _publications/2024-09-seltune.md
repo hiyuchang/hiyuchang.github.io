@@ -7,6 +7,7 @@ permalink: /publication/2024-09-seltune
 date: 2024-09-01
 venue: 'Under review'
 paperurl: 'https://arxiv.org/abs/2408.15600'
+codeurl: 'https://github.com/hiyuchang/fed_sel_tune'
 citation: 'Y. Sun, Y. Xie, B. Ding, Y. Li, and J. Zhang, “Exploring selective layer fine-tuning in federated learning,” submitted.'
 ---
 

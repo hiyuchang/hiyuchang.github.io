@@ -8,5 +8,5 @@ venue: ""
 # location: "Online"
 ---
 
-IEEE JSAC, IEEE TCOM ([2022 Exemplary reviewer](https://www.comsoc.org/publications/journals/ieee-tcom/exemplary-reviewers)), IEEE TMLCN
+IEEE JSAC, IEEE TCOM ([2022 Exemplary reviewer](https://www.comsoc.org/publications/journals/ieee-tcom/exemplary-reviewers)), IEEE TMLCN, IEEE TMC
 

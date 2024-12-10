@@ -23,6 +23,7 @@ Research Interests
 
 News
 ======
+- 10/12/2024: Our paper on active data querying in FL was accepted to AAAI 2025! Thanks to [Xinran](https://lxxxxr.github.io/), [Dr. Tao Lin](https://tlin-taolin.github.io/), and Prof. Zhang! The paper and code will be public soon!
 
 - 26/11/2024: We release the source code for our paper on FL with selective layer fine-tuning! See the [repo](https://github.com/hiyuchang/fed_sel_tune).
 

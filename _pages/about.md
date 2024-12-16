@@ -23,7 +23,7 @@ Research Interests
 
 News
 ======
-- 10/12/2024: Our paper on active data querying in FL was accepted to AAAI 2025! Thanks to [Xinran](https://lxxxxr.github.io/), [Dr. Tao Lin](https://tlin-taolin.github.io/), and Prof. Zhang! The paper and code will be public soon!
+- 10/12/2024: Our paper on active data querying in FL was accepted to AAAI 2025! Thanks to [Xinran](https://lxxxxr.github.io/), [Dr. Tao Lin](https://tlin-taolin.github.io/), and Prof. Zhang! The [paper](https://arxiv.org/abs/2412.08138) and [code](https://github.com/hiyuchang/leadq/) are public now.
 
 - 26/11/2024: We release the source code for our paper on FL with selective layer fine-tuning! See the [repo](https://github.com/hiyuchang/fed_sel_tune).
 
@@ -45,26 +45,18 @@ News
 
 - 25/01/2024: One new paper on collaboration in FL is public at [ArXiv](https://arxiv.org/abs/2401.13236).
 
-- 29/11/2023: I write an article to introduce MimiC ([here](https://mp.weixin.qq.com/s/7M-OLONznfRvQf-FPIKuIw)).
-
-- 21/11/2023: One paper on client dropout in FL is accepted to TMC! I like this idea personally very much, and an introduction article (in Chinese) will be online soon!
-
-- 18/11/2023: One paper on over-the-air FL is accepted to TWC!
-
-- 09/11/2023: One paper on coded FL is finally accepted to TWC after **exactly** one year!
-  
-- 09/11/2023: News function is now online! I will update this page at least once a month.
+- News before 2024 can be found [here](https://hiyuchang.github.io/news).
 
 Selected Publications
 ======
 The following selected publications are some of my recent works. For a full list of publications, please refer to [this page](https://hiyuchang.github.io/publications) or my [Google Scholar](https://scholar.google.com.hk/citations?user=1WffgvYAAAAJ&oi=ao) page.
 
-Exploring Selective Layer Fine-Tuning in Federated Learning ([Paper](https://arxiv.org/abs/2408.15600))
+Learn How to Query from Unlabeled Data Streams in Federated Learning ([Paper](https://arxiv.org/abs/2412.08138))
 ------
 
-- Authors: **Y. Sun**, Y. Xie, B. Ding, Y. Li, J. Zhang
-- Under review.
-- Codes are available at [here](https://github.com/hiyuchang/fed_sel_tune).
+- Authors: **Y. Sun**, X. Li, T. Lin, J. Zhang
+- Accepted to *AAAI 2025* (CCF A).
+- Code is available at [here](https://github.com/hiyuchang/leadq).
 
 MimiC: Combating Client Dropouts in Federated Learning by Mimicking Central Updates ([Paper](https://arxiv.org/abs/2306.12212))
 ------
@@ -72,7 +64,7 @@ MimiC: Combating Client Dropouts in Federated Learning by Mimicking Central Upda
   - Authors: **Y. Sun**, Y. Mao, J. Zhang
   - Accepted to *IEEE Transactions on Mobile Computing* (CCF A).
   - This is one of my personally favourite ideas! A chinese introduction is online [here](https://mp.weixin.qq.com/s/7M-OLONznfRvQf-FPIKuIw).
-  - Codes are available at [here](https://github.com/hiyuchang/mimic_codes/).
+  - Code is available at [here](https://github.com/hiyuchang/mimic_codes/).
 
 Semi-Decentralized Federated Edge Learning with Data and Device Heterogeneity ([Paper](https://arxiv.org/abs/2112.10313))
 ------

@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Yuchang Sun. I am currently working in DAIL, Alibaba as Senior Algorithm Engineer.
+I am Yuchang Sun. I am currently working in Tongyi Lab, Alibaba as Senior Algorithm Engineer.
 
 I received the Ph.D. degree from The Hong Kong University of Science and Technology (HKUST) in 2024, supervised by [Prof. Jun Zhang](https://eejzhang.people.ust.hk/), and the B.Eng. degree from Beijing Institute of Technology (BIT) in 2020. 
 During my Ph.D., I was fortunate to visit EURECOM, advised by [Prof. Marios Kountouris](https://scholar.google.co.in/citations?user=QG9iXtUAAAAJ&hl=en) and to intern at Alibaba, mentored by [Yuexiang Xie](https://xieyxclack.github.io/) and led by [Dr. Yaliang Li](https://scholar.google.com/citations?user=CCPBcdYAAAAJ&hl=zh-CN).
@@ -23,6 +23,10 @@ Research Interests
 
 News
 ======
+- 18/04/2025: We release a new framework for reinforce fine-tuning of LLM at https://github.com/modelscope/Trinity-RFT. Welcome for any discussion!
+
+- 12/04/2025: Our paper on FL with selective layer fine-tuning was accepted to ISIT 2025! The [paper](https://arxiv.org/abs/2408.15600) and [code](https://github.com/hiyuchang/fed_sel_tune) are public now.
+
 - 10/12/2024: Our paper on active data querying in FL was accepted to AAAI 2025! Thanks to [Xinran](https://lxxxxr.github.io/), [Dr. Tao Lin](https://tlin-taolin.github.io/), and Prof. Zhang! The [paper](https://arxiv.org/abs/2412.08138) and [code](https://github.com/hiyuchang/leadq/) are public now.
 
 - 26/11/2024: We release the source code for our paper on FL with selective layer fine-tuning! See the [repo](https://github.com/hiyuchang/fed_sel_tune).

@@ -1,0 +1,17 @@
+---
+layout: archive
+title: "Posts"
+permalink: /posts/
+author_profile: true
+---
+
+{% include base_path %}
+
+<ul>
+  {% for post in site.posts reversed %}
+    <li>
+      {{ post.date | date: "%Y-%m-%d" }}：
+      <a href="{{ post.url | prepend: base_path }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>

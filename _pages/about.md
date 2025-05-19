@@ -49,7 +49,7 @@ News
 
 - 25/01/2024: One new paper on collaboration in FL is public at [ArXiv](https://arxiv.org/abs/2401.13236).
 
-- News before 2024 can be found [here](https://hiyuchang.github.io/news).
+- News in and after 2024 can be found [here](https://hiyuchang.github.io/news).
 
 Selected Publications
 ======

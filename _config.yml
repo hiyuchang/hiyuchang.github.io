@@ -194,6 +194,10 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Conversion
 markdown: kramdown
+kramdown:
+  math_engine: mathjax
+  math_engine_opts:
+    include_style: false
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
@@ -227,6 +231,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   posts:
+    output: true
+    markdown: kramdown
+    permalink: /:collection/:path/
+  news:
     output: true
     permalink: /:collection/:path/
 
@@ -286,6 +294,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _news
+  - scope:
+      path: ""
+      type: news
+    values:
+      layout: single
+      author_profile: true
+      related: true
 
 
 # Sass/SCSS

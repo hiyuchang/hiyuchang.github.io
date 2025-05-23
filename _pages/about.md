@@ -23,7 +23,9 @@ Research Interests
 
 News
 ======
-- 18/04/2025: We release a new framework for reinforce fine-tuning of LLM at https://github.com/modelscope/Trinity-RFT. Welcome for any discussion!
+- 19/05/2025: Our paper on latent computation in LLM was posted on [ArXiv](https://arxiv.org/abs/2505.12629).
+
+- 18/04/2025: We release a new framework for reinforce fine-tuning of LLM at [modelscope/Trinity-RFT](https://github.com/modelscope/Trinity-RFT). Welcome for any discussion!
 
 - 12/04/2025: Our paper on FL with selective layer fine-tuning was accepted to ISIT 2025! The [paper](https://arxiv.org/abs/2408.15600) and [code](https://github.com/hiyuchang/fed_sel_tune) are public now.
 

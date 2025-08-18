@@ -145,15 +145,15 @@ $$
 $$
 
 $$
-\frac{1}{G} \sum_{i=1}^G \frac{1}{\mid o_i\mid } \sum_{t=1}^{\mid o_i\mid } \left\{ \min \left[ r_{t,i}(\theta) A_{i,t}, \text{clip} \left( r_{t,i}(\theta), 1-\epsilon, 1+\epsilon \right) A_{i,t} \right] - \beta \mathbb{D}_{\text{KL}} \left[ \pi_\theta \\mid  \pi_{\text{ref}} \right] \right\},
+\frac{1}{G} \sum_{i=1}^G \frac{1}{\mid o_i\mid } \sum_{t=1}^{\mid o_i\mid } \left\{ \min \left[ r_{t,i}(\theta) A_{i,t}, \text{clip} \left( r_{t,i}(\theta), 1-\epsilon, 1+\epsilon \right) A_{i,t} \right] - \beta \mathbb{D}_{\text{KL}} \left[ \pi_\theta \mid  \pi_{\text{ref}} \right] \right\},
 $$
 
-where $$r_{t,i}(\theta)=\frac{\pi_\theta(o_{i,t}\mid q, o_{i,<t})}{\pi_{\theta_{\text{old}}}(o_{i,t}\mid q, o_{i,<t})}$$.
+where $$r_{t,i}(\theta)=\frac{\pi_\theta(o_{i,t}\mid q, o_{i,<t})}{\pi_{\theta_{\text{old}}}(o_{i,t}\mid q, o_{i,<t})}.$$
 
 Apart from the advantage estimation, another dfference from PPO is the KL divergence as an unbiased estimator:
 
 $$
-\mathbb{D}_{\text{KL}} \left[ \pi_\theta \\mid  \pi_{\text{ref}} \right] = \frac{\pi_{\text{ref}}(o_{i,t} \mid  q, o_{i,<t})}{\pi_\theta(o_{i,t} \mid  q, o_{i,<t})} - \log \frac{\pi_{\text{ref}}(o_{i,t} \mid  q, o_{i,<t})}{\pi_\theta(o_{i,t} \mid  q, o_{i,<t})} - 1.
+\mathbb{D}_{\text{KL}} \left[ \pi_\theta \mid  \pi_{\text{ref}} \right] = \frac{\pi_{\text{ref}}(o_{i,t} \mid  q, o_{i,<t})}{\pi_\theta(o_{i,t} \mid  q, o_{i,<t})} - \log \frac{\pi_{\text{ref}}(o_{i,t} \mid  q, o_{i,<t})}{\pi_\theta(o_{i,t} \mid  q, o_{i,<t})} - 1.
 $$
 
 We notice that here we need three models:
@@ -246,7 +246,7 @@ $$
 Recall the objective function is:
 
 $$
-\max_\theta \mathbb{E}_{(x, y^*) \sim \mathcal{D}} \left[ \mathbb{E}_{(y, z) \sim \pi_\theta} [r(x, y, y^*)] - \tau \text{KL}(\pi_\theta(x) \\mid  \pi_{\theta_i}(x)) \right],
+\max_\theta \mathbb{E}_{(x, y^*) \sim \mathcal{D}} \left[ \mathbb{E}_{(y, z) \sim \pi_\theta} [r(x, y, y^*)] - \tau \text{KL}(\pi_\theta(x) \mid  \pi_{\theta_i}(x)) \right],
 $$
 
 where $\pi_{\theta_i}(x)$ is the current policy model as a reference. 
@@ -263,7 +263,7 @@ $$\mathbb{E}_{(y, z) \sim \pi_\theta(x)} \left[ \log \frac{\pi_\theta(y, z \mid 
 which has the gradient:
 
 $$
-\nabla_\theta \mathbb{E}_{(x, y^*) \sim \mathcal{D}} \left[ \text{KL}(\pi_\theta(x) \\mid  \pi_{\theta_i}(x)) \right]
+\nabla_\theta \mathbb{E}_{(x, y^*) \sim \mathcal{D}} \left[ \text{KL}(\pi_\theta(x) \mid  \pi_{\theta_i}(x)) \right]
 = \mathbb{E}_{(x, y^*) \sim \mathcal{D}} \left[ \mathbb{E}_{(y, z) \sim \pi_\theta} \left[ \nabla_\theta \log \pi_\theta(y, z\mid x) \right] \right].
 $$
 

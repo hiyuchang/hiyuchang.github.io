@@ -23,7 +23,7 @@ Research Interests
 
 News
 ======
-- 18/05/2025: Our work on "On-Policy RL Meets Off-Policy Experts in Fine-tuning LLM" was posted on [ArXiv](https://arxiv.org/pdf/2508.11408).
+- 18/08/2025: Our work on "On-Policy RL Meets Off-Policy Experts in Fine-tuning LLM" was posted on [ArXiv](https://arxiv.org/pdf/2508.11408).
 
 - 19/05/2025: Our work on latent computation in LLM was posted on [ArXiv](https://arxiv.org/abs/2505.12629).
 

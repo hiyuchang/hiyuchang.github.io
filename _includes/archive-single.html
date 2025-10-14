@@ -57,7 +57,7 @@
     {% endif %}
     
     {% if post.citation and post.paperurl and post.introurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Paper</a> | <a href="{{ post.introurl }}">Introduction</a> | <a href="{{ post.codeurl }}">Codes</a></p>
+      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Paper</a> | <a href="{{ post.introurl }}">Introduction</a> | <a href="{{ post.codeurl }}">Code</a></p>
     {% elsif post.citation and post.paperurl and post.introurl %}
       <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Paper</a> | <a href="{{ post.introurl }}">Introduction</a></p>
     {% elsif post.citation and post.paperurl %}

@@ -48,7 +48,7 @@ layout: default
         {{ content }}
 
         {% if post.citation and post.paperurl and post.introurl %}
-          <p style="font-size: smaller">Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Paper</a> | <a href="{{ post.introurl }}">Introduction</a> | <a href="{{ post.codeurl }}">Codes</a></p>
+          <p style="font-size: smaller">Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Paper</a> | <a href="{{ post.introurl }}">Introduction</a> | <a href="{{ post.codeurl }}">Code</a></p>
         {% elsif page.citation and page.paperurl and page.introurl %}
           <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Paper</a> | <a href="{{ page.introurl }}">Introduction</a></p>
         {% elsif page.citation and page.paperurl %}

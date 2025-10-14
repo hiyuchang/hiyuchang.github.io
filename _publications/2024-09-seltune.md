@@ -1,7 +1,7 @@
 ---
 title: "Exploring Selective Layer Fine-Tuning in Federated Learning"
 collection: publications
-category: arxiv
+category: conference
 permalink: /publication/2024-09-seltune
 # excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-09-01

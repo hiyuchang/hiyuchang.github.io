@@ -77,12 +77,12 @@ author:
 publication_category:
   books:
     title: 'Books'
-  journal:
-    title: 'Journal Articles'    
-  conference:
-    title: 'Conference Papers'
   arxiv:
     title: 'Preprint Articles'
+  conference:
+    title: 'Conference Papers'
+  journal:
+    title: 'Journal Articles'
 
 
 # Site Settings

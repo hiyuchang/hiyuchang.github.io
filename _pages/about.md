@@ -17,7 +17,7 @@ If you are interested in my research, do not hesitate to contact me via **hiyuch
 Research Interests
 ======
 
-- Test-time computation of large language models (LLMs)
+- Post-Training of large language models (LLMs)
 - Active learning (AL)
 - Federated learning (FL) and distributed learning
 

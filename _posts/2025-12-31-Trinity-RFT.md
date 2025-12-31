@@ -6,7 +6,7 @@ layout: single
 
 这篇文章主要是介绍一个 LLM 的 RL 训练框架 [Trinity-RFT](https://github.com/modelscope/Trinity-RFT) ，内容主要分为框架介绍和使用指南两部分。更详细的介绍可以参考[文档](https://modelscope.github.io/Trinity-RFT/zh/main/index.html)。注：本文所有图片都来自 Trinity-RFT 团队[1]。
 
-![Trinity-RFT 架构图](../../images/trinity-design.png)
+![Trinity-RFT 架构图](../../images/trinity-architecture.png)
 
 ## 框架介绍
 
